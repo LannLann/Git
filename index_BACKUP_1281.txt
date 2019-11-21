@@ -1,6 +1,0 @@
-fix issiue1
-<<<<<<< HEAD
-honglan
-=======
-sua doi moi
->>>>>>> isiue1
